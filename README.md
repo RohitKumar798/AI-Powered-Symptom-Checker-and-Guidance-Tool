@@ -47,13 +47,19 @@ Welcome to **Echo Health Care**, a modern web-based health assistant that combin
 ## 📸 Screenshots
 
 ### 🔐 Login Overlay
-![Login Overlay Screenshot](./screenshots/login.png)
+![Login Overlay Screenshot](./img/Login.png)
+
+### 🏠 Home
+![AI Insights Screenshot](./img/Home.png)
 
 ### 🧠 AI Assistant + Cards
-![AI Insights Screenshot](./screenshots/ai-insights.png)
+![AI Insights Screenshot](./img/AI.png)
 
 ### 🏥 Services Section
-![Services Screenshot](./screenshots/services.png)
+![Services Screenshot](./img/Services.png)
+
+### 🏥 Contact
+![Services Screenshot](./img/Contact.png)
 
 > **Note**: Create a `screenshots/` folder and add screenshots with the names above.
 
